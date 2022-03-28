@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/drawable_find_location.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/drawable/find_location.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/navigation_main_activity_nav.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/navigation/main_activity_nav.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_fragment_addlocdialog.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/fragment_addlocdialog.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_fragment_account.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_activity_registration.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/drawable_add_location.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/drawable/add_location.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_fragment_about.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_fragment_maps.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_activity_reset_password.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/layout_maintoolbar.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/layout/maintoolbar.xml"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/build/intermediates/merged_res/debug/menu_nav_menu.xml.flat",
+        "source": "/mnt/storage/projects/AndroidStudioProjects/recyloc/app/src/main/res/menu/nav_menu.xml"
+    }
+]
